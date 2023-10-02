@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060722978605",
+    "firebase_url": "https://highrisers-28b4f-default-rtdb.firebaseio.com",
+    "project_id": "highrisers-28b4f",
+    "storage_bucket": "highrisers-28b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060722978605:android:3907692a018dc27106ada4",
+        "android_client_info": {
+          "package_name": "com.example.highrisers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060722978605-95949019seg7r72atv7dtstmlacfkn0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.highrisers",
+            "certificate_hash": "5b27b857dd36bb8ce6525f1826a1c0fd7249d00d"
+          }
+        },
+        {
+          "client_id": "1060722978605-ggkglae2dutf4l94g3tlnpi7j39bsht5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPYonl-SCyYV8vw8Cbx0eGjY8d0PWuTlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060722978605-ggkglae2dutf4l94g3tlnpi7j39bsht5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
